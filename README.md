@@ -48,7 +48,7 @@ Cinec provides a **seamless user experience** for browsing movies, selecting sea
 
 ```
 
-🚀 Getting Started
+## 🚀 Getting Started
 ✅ Prerequisites
 Install Flutter SDK
 
