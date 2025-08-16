@@ -20,10 +20,6 @@ Cinec provides a **seamless user experience** for browsing movies, selecting sea
 
 ---
 
-## 🖼️ App Screenshots
-
-> 📌 Add screenshots or GIFs of your app here to showcase its functionality.  
-
 ---
 
 ## ⚙️ Tech Stack
